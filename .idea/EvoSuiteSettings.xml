@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EvoSuiteSettingsState">
+    <option name="clientOnThread" value="true" />
+    <option name="criterionException" value="false" />
+    <option name="criterionLine" value="false" />
+    <option name="evosuiteSetupCheckBoxSelected" value="false" />
+    <option name="javaPath" value="C:\Users\arturkutt\.jdks\corretto-11.0.30\bin\java" />
+    <option name="junitCheck" value="false" />
+    <option name="sandbox" value="false" />
+    <option name="seed" value="1" />
+  </component>
+</project>
